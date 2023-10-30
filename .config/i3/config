@@ -193,6 +193,15 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
 	status_command i3status
+	colors {
+		separator #444444
+		background #222222
+		statusline #B1B1B1
+		focused_workspace #CECECE #CECECE #000000
+		active_workspace #333333 #333333 #888888
+		inactive_workspace #CECECE #333333 #f1f1f1
+		urgent_workspace #eb709b #eb709b #ffffff
+	}
 }
 
 # firefox shortcut
