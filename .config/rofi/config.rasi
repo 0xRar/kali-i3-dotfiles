@@ -190,5 +190,5 @@ configuration {
 */
 }
 
-@theme "~/.config/rofi/nord.rasi"
+@theme "~/.config/rofi/rounded-nord-dark.rasi"
 element-icon { size: 3.5ch ; }
