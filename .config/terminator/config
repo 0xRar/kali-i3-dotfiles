@@ -9,7 +9,7 @@
     font = Hack 19
     foreground_color = "#ffffff"
     palette = "#151d2f:#d41919:#5ebdab:#fea44c:#367bf0:#9755b3:#49aee6:#e6e6e6:#198388:#ec0101:#47d4b9:#ff8a18:#277fff:#962ac3:#05a1f7:#ffffff"
-    use_system_font = False
+    use_system_font = True
 [layouts]
   [[default]]
     [[[window0]]]
